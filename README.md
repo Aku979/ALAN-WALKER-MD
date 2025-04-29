@@ -82,5 +82,5 @@ mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=
  - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/ALAN-WALKER-MD/tree/main/)***
 
 
-
+    `*Element Information:*\n 
 
